@@ -2,3 +2,4 @@ Name: Jemicah Hapay
 Course: BSIT
 Purpose: Git command practice
 I am practicing Git for my capstone project.
+Learning how git tracks changes.
